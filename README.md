@@ -1,7 +1,8 @@
 # Zoobka Wallpers Pack 2
 
 A pack of 16:9 wallpapers made with Zoobka.
-Click the green button "Clone or Download", then click "Download ZIP".
+
+Click the green button "Clone or download", then click "Download ZIP".
 
 ---
 
